@@ -2,6 +2,9 @@
 
 Welcome to the Credit Card Analysis Using Power BI Project! This repository showcases a comprehensive analysis of credit card customer data and transaction reports using Power BI. The project aims to derive actionable insights from customer behavior and transaction patterns to improve business strategies. Let's dive into the details! 🚀
 
+![Front](https://github.com/user-attachments/assets/3d007dfb-f479-43b4-b780-815f53d6c4b1)
+
+
 ## 📝 Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
@@ -88,6 +91,15 @@ The project paves the way for further analysis, such as:
 
 - _**Enhanced Segmentation:**_ Using advanced machine learning techniques for more accurate customer profiling.
 
+### _**CREDIT CARD CUSTOMER REPORT**_
+
+![Credit Card Customer Dashboard](https://github.com/user-attachments/assets/12ee8fab-2825-4da5-8479-110e6280a676)
+
+
+### _**CREDIT CARD TRANSACTION REPORT**_
+
+![Credit Card Transaction Dashboard](https://github.com/user-attachments/assets/0c6a4ec6-d3d8-4519-a244-2db1984e13c1)
+
 
 ## 🎉 Conclusion
-This project provides valuable insights into credit card customer behavior, which can help in crafting better marketing strategies, enhancing customer experiences, and minimizing risks. We hope you find this analysis insightful and helpful!
+This project provides valuable insights into credit card customer behavior, which can help craft better marketing strategies, enhance customer experiences, and minimize risks. We hope you find this analysis insightful and helpful!
